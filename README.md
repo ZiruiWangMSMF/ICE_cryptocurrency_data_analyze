@@ -10,6 +10,9 @@
 
 ### Team member: Yiming Zhang, Kangjun Cheng, Junyu Wang 
 
+### Other contributor: Calvin Yong
+ 
+
 This is the team summer project to analyze ICE crypto-currency data. 
 
 The specs and documentations are in the docs file.
