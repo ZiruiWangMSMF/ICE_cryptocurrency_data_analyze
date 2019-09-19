@@ -1,17 +1,16 @@
 # ICE-DATA
 
-From 06/2019 to 08/2019
+## From 06/2019 to 08/2019
+
+### Instructor：Raoparlapalli
+
+### ICE supervisor: George 
+
+### Team leader: Zirui Wang 
+
+### Team member: Yiming Zhang, Kangjun Cheng, Junyu Wang 
 
 This is the team summer project to analyze ICE crypto-currency data. 
-
-Instructor：Raoparlapalli
-
-ICE supervisor: George 
-
-Team leader: Zirui Wang 
-
-Team member: Yiming Zhang, Kangjun Cheng, Junyu Wang 
-
 
 The specs and documentations are in the docs file.
 
