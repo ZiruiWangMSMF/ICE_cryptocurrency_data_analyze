@@ -1,13 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-# %%
-
 # ###########################
 # # program 3.6 ##
 # ###########################
-
-# %%
-
 
 import numpy as np
 import pandas as pd
