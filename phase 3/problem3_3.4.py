@@ -1,12 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-# %% [markdown]
 # ###########################
 # #    MTH 691 Program 3.4  ##
 # ###########################
-
-# %%
-
 
 import warnings
 warnings.simplefilter("ignore")
